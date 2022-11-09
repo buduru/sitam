@@ -25,6 +25,12 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+  <groupId>nz.co.trademe.mapme</groupId>
+  <artifactId>googlemaps</artifactId>
+  <version>1.2.1</version>
+  <type>aar</type>
+</dependency>
   </dependencies>
 
   <build>
